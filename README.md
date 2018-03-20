@@ -1,4 +1,4 @@
-Mejuri Movies Challenge - Francisco Aboy.
+## Mejuri Movies Challenge - Francisco Aboy.
 Live build at https://mejuri-movies-francisco-ocjjuvissz.now.sh/
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
