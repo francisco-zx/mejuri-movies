@@ -1,6 +1,15 @@
 ## Mejuri Movies Challenge - Francisco Aboy.
 Live build at https://mejuri-movies-francisco-ocjjuvissz.now.sh/
 
+Redesign available at repo as mejuri-movies-redesign.png
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
