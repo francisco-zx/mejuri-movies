@@ -1,0 +1,66 @@
+body{
+  background: #e3e2dd;
+  font-family: Verdana !important;
+  transition: all 0.5s ease;
+}
+h5 .MovieTitle{
+  font-size: 13px;
+}
+a{
+  color: #2F6BAC;
+}
+.Movie{
+  padding: 1em;
+  margin: 2px 0 2px 0;
+}
+.Movie:nth-child(odd){
+  background: #f6f6f5;
+}
+.Movie:nth-child(even){
+  background: #fbfbfb;
+}
+.MovieImage{
+  box-shadow: 0 0 3px 1px rgba(0,0,0,0.5);
+
+}
+.MovieDescription{
+}
+.MovieImage, .MovieDescription{
+  display: inline-block;
+}
+.MovieSynopsis{
+  padding-top: 20px;
+}
+.MovieRating{
+  background: white;
+  border-radius: 5px;
+  border: 1px solid #c5c5c5;
+  padding: 2px 12px 2px 4px;
+}
+.RatingStars{
+  padding-right: 10px;
+}
+.RatingValue{
+  font-weight: bold;
+  color: #A0862B;
+}
+.showReview{
+  border-radius: 5px;
+  background: #f8f6ee; /* Old browsers */
+  background: -moz-linear-gradient(top, #f8f6ee 0%, #ece5cd 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #f8f6ee 0%,#ece5cd 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #f8f6ee 0%,#ece5cd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f6ee', endColorstr='#ece5cd',GradientType=0 ); /* IE6-9 */
+}
+.MovieReview{
+  padding: 20px;
+}
+.lazyLoad{
+  height:305px;
+  width: 206px;
+  background: #f8f6ee; /* Old browsers */
+  background: -moz-linear-gradient(top, #f8f6ee 0%, #ece5cd 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #f8f6ee 0%,#ece5cd 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #f8f6ee 0%,#ece5cd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f6ee', endColorstr='#ece5cd',GradientType=0 ); /* IE6-9 */
+}
